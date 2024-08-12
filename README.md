@@ -14,4 +14,17 @@
 * Conceitos de herança
   - Quandos você herada caracteristica da class base
   - exemplo class base tem id, nome mais a class filha herda os atributos da class base id, nome mais ele adiciona as proprias caracteristica estudantes
-  - é como se fosse um molde para um molde 
+  - é como se fosse um molde para um molde
+ 
+
+* Conceitos de Encapsulamento
+  - pegar coisas complexas para transporta e utilizar de maneira facil
+
+* Polimofirmos
+  - conjuntuo de duas coisas POLI e Form
+  - POli é mais de um
+  - Morfico mais de uma forma
+  - Meu codigo pode ser de varias formas
+  - lembrar do locker
+ * Abstração
+   - é uma coisa subjetiva
